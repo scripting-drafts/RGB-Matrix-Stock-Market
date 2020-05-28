@@ -4,8 +4,8 @@ Requirements:
  - Raspberry Pi 3
  - Raspbian Stretch*
  - Geckodriver v0.17.0**
- - Firefox-ESR
- - Selenium
+ - Firefox-ESR 52.9.0
+ - Selenium 3.141.0
  
  
 *https://downloads.raspberrypi.org/raspbian/images/raspbian-2017-08-17/2017-08-16-raspbian-stretch.zip 
