@@ -8,5 +8,5 @@ Requirements:
  - Selenium 3.141.0
  
  
-*https://downloads.raspberrypi.org/raspbian/images/raspbian-2017-08-17/2017-08-16-raspbian-stretch.zip
+*https://downloads.raspberrypi.org/raspbian/images/raspbian-2017-08-17/2017-08-16-raspbian-stretch.zip \n
 *\*https://github.com/d0ku/GeckoDriver_ARMv6/releases/download/v.0.17.0/geckodriver
