@@ -52,7 +52,7 @@ shared_data = {
     "color": color
 }
 
-t = Thread(target=get_values, args=(shared_data))
+t = Thread(target=get_values, args=(shared_data,))
 t.start()
 
 while True:
