@@ -10,3 +10,7 @@ Requirements:
  
 *https://downloads.raspberrypi.org/raspbian/images/raspbian-2017-08-17/2017-08-16-raspbian-stretch.zip  
 *\*https://github.com/d0ku/GeckoDriver_ARMv6/releases/download/v.0.17.0/geckodriver
+
+
+Notes:
+To install Firefox-ESR 52.9.0 comment the source for non-free packages at /etc/apt/sources.list
