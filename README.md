@@ -13,5 +13,5 @@ Requirements:
 
 
 Notes:
-To install Firefox-ESR 52.9.0 comment the source for non-free packages at /etc/apt/sources.list
+To install Firefox-ESR 52.9.0 comment the source for non-free packages at /etc/apt/sources.list  
 In order to be able to use the geckodriver give it execution permissions with "chmod +x"
